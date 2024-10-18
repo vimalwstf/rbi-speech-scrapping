@@ -7,3 +7,5 @@ Create .env file as:
 To run:
 
 `node --env-file=.env index.js`
+
+world
