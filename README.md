@@ -8,4 +8,4 @@ To run:
 
 `node --env-file=.env index.js`
 
-Hello
+Hello World!
