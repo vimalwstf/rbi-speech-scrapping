@@ -1,4 +1,4 @@
-# rbi-speech-scrapping
+# RBI Speech Scrapping
 
 Create .env file as:
 
